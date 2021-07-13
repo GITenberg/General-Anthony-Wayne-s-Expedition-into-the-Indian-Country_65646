@@ -1,0 +1,30 @@
+_repo: General-Anthony-Wayne-s-Expedition-into-the-Indian-Country_65646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Public Library of Fort Wayne and Allen County
+    aliases:
+    - Fort Wayne Public Library
+    - Allen County (Ind.). Public Library of Fort Wayne and Allen County
+    - Fort Wayne (Ind.). Public Library of Fort Wayne and Allen County
+    - Ft. Wayne Public Library
+    - Emerine J. Hamilton Reading Room
+    gutenberg_agent_id: '53025'
+    url: http://www.gutenberg.org/2009/agents/53025
+    wikipedia: https://en.wikipedia.org/wiki/Allen_County_Public_Library
+description: ''
+gutenberg_issued: '2021-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F516'
+- !lcsh 'Wayne''s Campaign, 1794'
+- !lcsh 'Wayne, Anthony, 1745-1796'
+- GITenberg
+title: General Anthony Wayne's Expedition into the Indian Country
+url: http://www.gutenberg.org/ebooks/65646
